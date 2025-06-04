@@ -4,4 +4,4 @@ With this quickstart, you'll learn to create a simple agent and use ADK Streamin
 
 This code follows the [official Google doc](https://google.github.io/adk-docs/get-started/streaming/quickstart-streaming/)
 
-![Voice activated search agent]()
+![Voice activated search agent](multi-tool-streaming-agent-weather-time.png)
