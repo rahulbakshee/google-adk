@@ -1,5 +1,5 @@
 # 🤖 Agentic AI Experiments
-Welcome to my experiments with Agent Development Kit (ADK)  by Google, OpenAI, Hugging Face etc.
+Welcome to my experiments with Agent Development Kit (ADK)  by `Google`, `OpenAI`, `Hugging Face` etc.
 The Agentic AI frameworks are designed to build robust, modular, and intelligent AI agents with ease. This repository explores various capabilities of ADK and showcases sample implementations, components, Agents, and workflows.
 
 # 🌟 What is ADK?
