@@ -1,5 +1,6 @@
-# 🤖 Agent Development Kit (ADK) by Google
-Welcome to my experiments with Google’s Agent Development Kit (ADK) — a framework designed to build robust, modular, and intelligent AI agents with ease. This repository explores various capabilities of ADK and showcases sample implementations, components, Agents, and workflows.
+# 🤖 Agentic AI Experiments
+Welcome to my experiments with Agent Development Kit (ADK)  by Google, OpenAI, Hugging Face etc.
+The Agentic AI frameworks are designed to build robust, modular, and intelligent AI agents with ease. This repository explores various capabilities of ADK and showcases sample implementations, components, Agents, and workflows.
 
 # 🌟 What is ADK?
 The Agent Development Kit (ADK) is an open-source framework from Google that simplifies the development of autonomous AI agents. It provides the infrastructure to build modular, composable, and reactive agents that can plan, reason, and act across a variety of tools and environments.
